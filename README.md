@@ -1,5 +1,9 @@
 Result of the collaboration of: Shalin Shanghavi & Mukul Pathak.
+
+
 Shalin: https://github.com/sharoo97
+
+
 Mukul: https://github.com/pathakmukul
 
 
@@ -10,7 +14,8 @@ DATABASE MANAGEMENT PROJECT ON THE INDIAN PREMIER LEAGUE 2019 EDITION
 
 
 # Introduction
-	        The Indian Premier League (IPL) is a professional Twenty20 cricket league played in India. It was founded by the Board of Control for Cricket in India(BCCI) in the year 2008. The two and half months long cricketing event happens every year during the summer. With players coming from all over the world, IPL is the most successful premier franchise cricket in the world right now. IPL also holds the record of most viewed sporting event online with 18.6 million concurrent viewers. 
+	   
+The Indian Premier League (IPL) is a professional Twenty20 cricket league played in India. It was founded by the Board of Control for Cricket in India(BCCI) in the year 2008. The two and half months long cricketing event happens every year during the summer. With players coming from all over the world, IPL is the most successful premier franchise cricket in the world right now. IPL also holds the record of most viewed sporting event online with 18.6 million concurrent viewers. 
 
 There are eight teams representing eight different regions in India. Each team has a squad of 15-25 players. Out of which 11 players are on field on the match day. To keep it fair, only 4 international players are allowed to play a game from each team. All the teams are either owned by businessmen or movie stars or politicians. With one of the teams owned by richest man in Asia, Mr. Mukesh Ambani of Reliance India Limited. With so much glamour and money in the sports, each team is supported by best in class support staff, analysts and media coverage. 
 
